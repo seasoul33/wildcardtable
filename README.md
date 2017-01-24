@@ -1,6 +1,6 @@
-# my-project
+# WIldCard Table
 
-> A Vue.js project
+> A Vue.js component to be a multiple usage table/list.
 
 ## Build Setup
 
