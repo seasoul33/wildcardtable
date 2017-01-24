@@ -1,4 +1,4 @@
-# WIldCard Table
+# WildCard Table
 
 > A Vue.js component to be a multiple usage table/list.
 
